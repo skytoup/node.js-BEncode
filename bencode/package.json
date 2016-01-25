@@ -1,0 +1,11 @@
+{
+  "name": "bencode",
+  "version": "1.0.0",
+  "description": "简单becode解码成javascript对象",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "skytoup",
+  "license": "MIT"
+}
